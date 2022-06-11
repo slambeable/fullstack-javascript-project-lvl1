@@ -1,0 +1,19 @@
+{
+  "name": "@hexlet/code",
+  "version": "0.0.1",
+  "description": "Hexlet first project",
+  "main": "bin/brain-games.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slambeable/fullstack-javascript-project-lvl1.git"
+  },
+  "author": "slambeable",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slambeable/fullstack-javascript-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/slambeable/fullstack-javascript-project-lvl1#readme"
+}
