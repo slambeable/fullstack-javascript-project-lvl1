@@ -1,4 +1,4 @@
-import gameEngine from '../gameEngine.js';
+import index from '../index.js';
 import randomNum from '../utils.js';
 
 const description = 'Answer "yes" if the number is even, otherwise answer "no".\n';
@@ -11,4 +11,4 @@ const gameLogic = () => {
   return [question, correctAnswer];
 };
 
-export default () => gameEngine(description, gameLogic);
+export default () => index(description, gameLogic);
