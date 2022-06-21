@@ -18,5 +18,5 @@ export default (description, gameLogic) => {
       return console.log(`"${answer}" is wrong answer ;(. Correct answer was "${correctAnswer}".\nLet's try again, ${username}`);
     }
   }
-  return console.log(`Congratulations, ${username}`);
+  return console.log(`Congratulations, ${username}!`);
 };
