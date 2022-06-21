@@ -1,8 +1,8 @@
-install: install-deps
+install:
 	npm ci
 
-brain-games: run game
+brain-games:
 	node bin/brain-games.js
 
-publish: publish project
+publish:
 	npm publish --dry-run
