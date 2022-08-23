@@ -1,7 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/slambeable/fullstack-javascript-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/slambeable/fullstack-javascript-project-lvl1/actions)
 
-### Brain-games
+# Brain-games
 
 A small set of games for the console. Games are based on solving arithmetic problems.
 
