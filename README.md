@@ -21,6 +21,7 @@ This package includes following games:
 - #brain-gcd
 - #brain-prime
 - #brain-progression
+
 Just enter name of the game in console:
 
 Examples:
