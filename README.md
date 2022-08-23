@@ -15,7 +15,6 @@ git clone https://github.com/slambeable/fullstack-javascript-project-lvl1/
 
 This package includes following games:
 
-- #brain-balance
 - #brain-calc
 - #brain-even
 - #brain-gcd
